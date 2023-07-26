@@ -1,0 +1,48 @@
+#javas{
+display: none;
+
+}
+#display{
+display:block;
+
+}
+#fix70{
+display:none;
+position:relative;
+bottom:420px;
+right:10px;
+}
+#java{
+	position:relative;
+	bottom:2550px;
+	left:10px;
+	margin:0px;
+	padding: 0px;
+}
+
+#line{
+    width:1px;
+    height:2560px;
+	background: green;
+	visibility:hidden;
+	position: relative;
+	top:0px;
+
+}
+#numbers{
+	margin:0px;
+	font-size:19px;
+	position: relative;
+
+    display: none;
+    margin:0px;
+    padding: 0px;
+}
+#htp{
+display:none;
+position:absolute;
+	top:60px;
+	left:70px;
+line-height:35px;
+}
+
